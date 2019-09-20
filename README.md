@@ -1,2 +1,2 @@
 # peselgen
-pesel generator
+pesel dictionary generator
